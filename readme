@@ -1,0 +1,2 @@
+Kivi-paperi-sakset ohjelma, koodattu Javalla. Pelissä on kolme vaikeustaso: helppo, keskivaikea ja vaikea. Käyttäjä pelaa aina tietokonetta vastaan. 
+Peli ei kuitenkaan ole täydellinen, sillä jos tietokoneella on ensimmäinen vuoro, saattaa tietokone voittaa vaikeustasosta huolimatta.
